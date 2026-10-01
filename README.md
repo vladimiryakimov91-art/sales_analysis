@@ -12,7 +12,7 @@
 ## Как запустить
 
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/vladimiryakimov91-art/sales_analysis.git
 cd sales_analysis
 pip install -r requirements.txt
 jupyter notebook 01_sales_analysis.ipynb
