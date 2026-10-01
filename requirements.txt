@@ -1,0 +1,6 @@
+# Проверено на Python 3.14
+pandas==2.3.3
+numpy
+matplotlib==3.10.8
+jupyter
+nbconvert
