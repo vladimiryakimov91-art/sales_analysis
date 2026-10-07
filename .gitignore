@@ -5,3 +5,7 @@ __pycache__/
 venv/
 .DS_Store
 ~$*
+
+# Результаты выполнения DAG (генерируются, в репозиторий не нужны)
+output/stage/
+output/report.md
